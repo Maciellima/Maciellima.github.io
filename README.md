@@ -7,6 +7,10 @@ Estudante do IFRN- Ceará-Mirim
 Game designer & Designer.
 
 # Contatos
+1. Twitter
+2. Instagran
+
+- numero 1
 
 ## Jogos
 
