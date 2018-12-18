@@ -20,4 +20,6 @@ Game designer & Designer.
 
 #### Alunos
 
+[FODA](https://www.google.com/search?q=rick+and+morty&safe=active&rlz=1C1GCEU_pt-BRBR824BR824&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjzt8bN7KnfAhXFE5AKHWc2AnQQ_AUIECgD&biw=1920&bih=889#imgrc=6vxxkgipHsOMBM:)
+
 
