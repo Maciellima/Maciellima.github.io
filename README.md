@@ -6,13 +6,13 @@ Estudante do IFRN- Ceará-Mirim
 
 Game designer & Designer.
 
-#Contatos
+# Contatos
 
-##Jogos
+## Jogos
 
-###Artes
+### Artes
 
-####Alunos
+#### Alunos
 
 ### Markdown
 
