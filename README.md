@@ -25,8 +25,11 @@ Game designer & Designer.
  02.link que vai para uma imagem
 ![click aqui](https://moderndogmagazine.com/sites/default/files/images/uploads/Pug.jpg)
 
-3 adicionar uma imagem do computador
+03. adicionar uma imagem do computador
 ![imagem 01](Jellyfish.jpg)
 
-4 adicionar um link que seja imagem
+04. adicionar um link que seja imagem
 [![imagem 01](Jellyfish.jpg)](https://www.google.com.br/webhp?rlz=1C1AVUC_pt-BRBR809BR809&ie=UTF-8&rct=j)
+
+0.5 add o link que seja imagem e que abra numa nova janela
+<a href="https://eloisaliima.github.io/Estacoes/" taget="_blank"> ![Imagem2](Jellyfish.jpg)</a>
