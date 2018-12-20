@@ -19,7 +19,14 @@ Game designer & Designer.
 ### Artes
 
 #### Alunos
-
+01. link que vai para o jogo
 [click aqui](https://maciellima.github.io/VouContarAte3/)
+ 
+ 02.link que vai para uma imagem
+![click aqui](https://moderndogmagazine.com/sites/default/files/images/uploads/Pug.jpg)
 
-![click aqui](https://www.google.com/search?q=gatinhos&safe=active&rlz=1C1GCEU_pt-BRBR824BR824&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiB2fub6a7fAhVDUJAKHS_vAhgQ_AUIDigB&biw=1920&bih=938#imgrc=-BqowmLa30fsRM:)
+3 adicionar uma imagem do computador
+![imagem 01](Jellyfish.jpg)
+
+4 adicionar um link que seja imagem
+[![imagem 01](Jellyfish.jpg)](https://www.google.com.br/webhp?rlz=1C1AVUC_pt-BRBR809BR809&ie=UTF-8&rct=j)
