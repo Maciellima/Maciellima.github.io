@@ -1,5 +1,5 @@
 ## Meu Portefólio
-
+<div>
 <img src="Perfil.jpg" width="300" height="300"> 
 
 Maciel Araujo de lima 
@@ -10,6 +10,7 @@ Estudante do IFRN-Ceará-Mirim
 
 Game designer & Designer.
 
+</div>
 - numero 1
 
 ## Jogos
