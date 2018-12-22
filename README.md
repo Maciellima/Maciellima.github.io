@@ -1,19 +1,15 @@
 ## Meu Portefólio
+<div>
+<img src="Perfil.jpg" width="300" height="300"> 
 
-<table>
-<tr>
-    <td><img src="Perfil.jpg" width="300" height="300"></td> 
-
- <td>Maciel Araujo de lima</br>
+- Maciel Araujo de lima
  
 - 22 anos
 
 - Estudante do IFRN-Ceará-Mirim
 
-- Game designer & Designer</td>
-</tr>
-</table>
-
+- Game designer & Designer
+</div>
 ## Jogos
 
 **Meu 1 jogo :_Muito legal_
