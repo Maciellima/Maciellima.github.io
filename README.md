@@ -1,10 +1,16 @@
 ## Meu Portefólio
 
-<img src="Perfil.jpg" width="300" height="300"> Maciel Araujo de lima, 22 anos Estudante do IFRN- Ceará-Mirim Game designer & Designer.
+<img src="Perfil.jpg" width="300" height="300"> 
 
-# Contatos
-[![instagram](Int.png)](https://www.instagram.com/ciell_lima/?hl=pt-br)
-[![Facebook](FB.png)](https://www.facebook.com/maciel.araujo.3150)
+Maciel Araujo de lima 
+
+22 anos
+
+Estudante do IFRN-Ceará-Mirim
+
+Game designer & Designer.
+
+
 
 - numero 1
 
@@ -30,5 +36,7 @@
 0.5 add o link que seja imagem e que abra numa nova janela
 <a href="https://eloisaliima.github.io/Estacoes/" taget="_blank"> ![Imagem2](Jellyfish.jpg)</a>
 
+# Contatos
+[![instagram](Int.png)](https://www.instagram.com/ciell_lima/?hl=pt-br)
+[![Facebook](FB.png)](https://www.facebook.com/maciel.araujo.3150)
 
-### Markedown
