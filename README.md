@@ -42,7 +42,8 @@ Game designer & Designer</td>
 <a href="http://www.instagram.com/" target="_blank">
 <img title="Clique aqui para ir novaguia" alt="Novaguia" src="wat.png" /></a>
 
-<a href="http://www.instagram.com/"Clik Para uma nova aba" alt="insta" src="Int.png" /></a>
+<a href="https://www.instagram.com/" target="_blank">
+<img title="FRASE" alt="NOME" src="Int.png" /></a>                                                                                    
 
 # Contatos
 [![instagram](Int.png)](https://www.instagram.com/ciell_lima/?hl=pt-br)
