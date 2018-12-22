@@ -1,5 +1,7 @@
 ## Meu Portefólio
 
+<img src="Perfil.jpg" width="300" height="300">
+
 Maciel Araujo de lima, 22 anos 
 
 Estudante do IFRN- Ceará-Mirim
