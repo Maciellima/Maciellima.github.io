@@ -46,6 +46,11 @@ Game designer & Designer</td>
 <img title="FRASE" alt="NOME" src="Int.png" /></a>                                                                                    
 
 # Contatos
+<a href="https://www.instagram.com/ciell_lima/?hl=pt-br" target="_blank">
+<img title="FRASE" alt="NOME" src="Int.png" /></a>
+<a href="https://www.facebook.com/maciel.araujo.3150" target="_blank">
+<img title="FRASE" alt="NOME" src="FB.png" /></a>
+
 [![instagram](Int.png)](https://www.instagram.com/ciell_lima/?hl=pt-br)
 [![Facebook](FB.png)](https://www.facebook.com/maciel.araujo.3150)
 [![Watssap](wat.png)]()
