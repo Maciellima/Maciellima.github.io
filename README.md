@@ -42,3 +42,4 @@ Game designer & Designer</td>
 [![instagram](Int.png)](https://www.instagram.com/ciell_lima/?hl=pt-br)
 [![Facebook](FB.png)](https://www.facebook.com/maciel.araujo.3150)
 [![Watssap](wat.png)]()
+<img src="Watssap" width="150" height="131"></td> 
