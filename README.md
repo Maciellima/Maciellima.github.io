@@ -10,8 +10,6 @@ Estudante do IFRN-Ceará-Mirim
 
 Game designer & Designer.
 
-
-
 - numero 1
 
 ## Jogos
@@ -39,4 +37,4 @@ Game designer & Designer.
 # Contatos
 [![instagram](Int.png)](https://www.instagram.com/ciell_lima/?hl=pt-br)
 [![Facebook](FB.png)](https://www.facebook.com/maciel.araujo.3150)
-
+[![Watssap](wat.png)]()
