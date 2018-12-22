@@ -39,7 +39,7 @@ Game designer & Designer</td>
 <a href="https://eloisaliima.github.io/Estacoes/" taget="_blank"> ![Imagem2](Jellyfish.jpg)</a>
 
 0.6 abri nova guia
-<a href="https://www.instagram.com/"target="_blank">
+<a href="http://www.instagram.com/" target="_blank">
 <img title="Clique aqui para ir novaguia" alt="Novaguia" src="wat.png" /></a>
 
 # Contatos
