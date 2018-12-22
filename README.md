@@ -2,13 +2,13 @@
 
 <img src="Perfil.jpg" width="300" height="300"> 
 
-## Maciel Araujo de lima
+- Maciel Araujo de lima
  
-## 22 anos
+- 22 anos
 
-## Estudante do IFRN-Ceará-Mirim
+- Estudante do IFRN-Ceará-Mirim
 
-## Game designer & Designer
+- Game designer & Designer
 
 ## Jogos
 
