@@ -38,6 +38,10 @@ Game designer & Designer</td>
 0.5 add o link que seja imagem e que abra numa nova janela
 <a href="https://eloisaliima.github.io/Estacoes/" taget="_blank"> ![Imagem2](Jellyfish.jpg)</a>
 
+0.6 abri nova guia
+<a href="https://www.instagram.com/"blank">
+<img title="Clique aqui para ir novaguia" alt="Novaguia" src="wat.png" /></a>
+
 # Contatos
 [![instagram](Int.png)](https://www.instagram.com/ciell_lima/?hl=pt-br)
 [![Facebook](FB.png)](https://www.facebook.com/maciel.araujo.3150)
