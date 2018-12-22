@@ -1,8 +1,8 @@
 ## Meu Portefólio
 
 <table>
-  <tr>
- <td><img src="Perfil.jpg" width="300" height="300"></td> 
+<tr>
+    <td><img src="Perfil.jpg" width="300" height="300"></td> 
 
  <td>Maciel Araujo de lima</br>
  
