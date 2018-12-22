@@ -6,15 +6,13 @@
 
  <td>Maciel Araujo de lima</br>
  
-22 anos
+- 22 anos
 
-Estudante do IFRN-Ceará-Mirim
+- Estudante do IFRN-Ceará-Mirim
 
-Game designer & Designer</td>
+- Game designer & Designer</td>
 </tr>
 </table>
-
-- numero 1
 
 ## Jogos
 
