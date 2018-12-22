@@ -7,8 +7,8 @@ Estudante do IFRN- Ceará-Mirim
 Game designer & Designer.
 
 # Contatos
-1. Twitter
-2.[![instagram](Int.png)](https://www.instagram.com/ciell_lima/?hl=pt-br)
+[![instagram](Int.png)](https://www.instagram.com/ciell_lima/?hl=pt-br)
+[![Facebook](FB.png)](https://www.facebook.com/maciel.araujo.3150)
 
 - numero 1
 
