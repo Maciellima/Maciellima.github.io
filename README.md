@@ -29,18 +29,6 @@
 **DESCRIÇÃO :_Este jogo conta a história de uma spaçonave que entra em uma trajetória errada, e vai parar em uma trajetória onde tem você tem que desviar dos cristais para não explodir no meio do espaço._
 
 ### Artes
-
- 02.link que vai para uma imagem
-![click aqui](https://moderndogmagazine.com/sites/default/files/images/uploads/Pug.jpg)
-
-03. adicionar uma imagem do computador
-![imagem 01](Jellyfish.jpg)
-
-04. adicionar um link que seja imagem
-[![imagem 01](Jellyfish.jpg)](https://www.google.com.br/webhp?rlz=1C1AVUC_pt-BRBR809BR809&ie=UTF-8&rct=j)
-
-0.5 add o link que seja imagem e que abra numa nova janela
-<a href="https://eloisaliima.github.io/Estacoes/" taget="_blank"> ![Imagem2](Jellyfish.jpg)</a>
                                                                                    
 # Contatos
 <a href="https://www.instagram.com/ciell_lima/?hl=pt-br" target="_blank">
