@@ -18,7 +18,7 @@
 [![imagem 01](2JG.png)](https://mavicampos.github.io/ERS/)
 **DESCRIÇÃO :_Este jogo conta a história de uma borboleta zaza, e sua amiga abelha zuzu, que juntas irão colectar sua comida e se livrar das ameaças dos seus predadores._
 ### 03. jogo
-[![imagem 01](3JG.png)](https://mavicampos.github.io/ERS/)
+[![imagem 01](3JG.png)](https://eloisaliima.github.io/Estacoes)
 **DESCRIÇÃO :_Este jogo conta a história de um gnomo chamado ADOLFO, que cuidava de seu planeta tranquilo até certo dia....porque em um dia qualquer, uma nave espacial perde o controlo e cai em cima do relógio central, onde ele é responsável pelo equilíbrio das temperaturas das quatro estações, então ADOLFO tem que ir em busca das peças para concertar o relógio antes que todo o planeta se destrua por completo._
 
 ### 04. jogo
