@@ -28,8 +28,7 @@
 [![imagem 01](JGEX.png)](https://maciellima.github.io/JouneyInTheGalaxy/)
 **DESCRIÇÃO :_Este jogo conta a história de uma spaçonave que entra em uma trajetória errada, e vai parar em uma trajetória onde tem você tem que desviar dos cristais para não explodir no meio do espaço._
 
-### Artes
-                                                                                   
+### Artes                                                                                   
 # Contatos
 <a href="https://www.instagram.com/ciell_lima/?hl=pt-br" target="_blank">
 <img title="INSTAGRAM" alt="NOME" src="Int.png" /></a>
