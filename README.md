@@ -27,26 +27,6 @@
 
 ### Artes
 
-#### Alunos
-
-
-<div class="box">
-    <img src="1JG.png"/>
-    <span> Titulo da primeira imagem </span>
-</div>
-<div class="box">
-    <img src="2JG.png"/>
-    <span> Titulo da segunda imagem </span>
-</div>
-
-<style>
-div.box {
-	width: 300px;
-	display: inline-block;
-}
-</style>
-
- 
  02.link que vai para uma imagem
 ![click aqui](https://moderndogmagazine.com/sites/default/files/images/uploads/Pug.jpg)
 
