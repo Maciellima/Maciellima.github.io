@@ -16,6 +16,7 @@
 **DESCRIÇÃO :_Este jogo conta a história de Guilherme, que desobedeceu a sua mãe e as consequências não foram uma das melhores, então que saber o que aconteceu com ele, vem aqui e dá uma jogadinha para descobrir._
 ### 02. jogo
 [![imagem 01](2JG.png)](https://mavicampos.github.io/ERS/)
+**DESCRIÇÃO :_Este jogo conta a história de uma borboleta zaza, e sua amiga abelha zuzu, que juntas irão colectar sua comida e se livrar das ameaças dos seus predadores._
 ### 03. jogo
 [![imagem 01](3JG.png)](https://mavicampos.github.io/ERS/)
 ### 04. jogo
