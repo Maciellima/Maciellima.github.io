@@ -41,7 +41,7 @@
 
 <style>
 div.box {
-	width: 150px;
+	width: 300px;
 	display: inline-block;
 }
 </style>
