@@ -19,13 +19,14 @@
 **DESCRIÇÃO :_Este jogo conta a história de uma borboleta zaza, e sua amiga abelha zuzu, que juntas irão colectar sua comida e se livrar das ameaças dos seus predadores._
 ### 03. jogo
 [![imagem 01](3JG.png)](https://mavicampos.github.io/ERS/)
+**DESCRIÇÃO :_Este jogo conta a história de um gnomo chamado ADOLFO, que cuidava de seu planeta tranquilo até certo dia....porque em um dia qualquer, uma nave espacial perde o controlo e cai em cima do relógio central, onde ele é responsável pelo equilíbrio das temperaturas das quatro estações, então ADOLFO tem que ir em busca das peças para concertar o relógio antes que todo o planeta se destrua por completo._
+
 ### 04. jogo
 
 ## Jogos Extras
 ### 01. jogo
 [![imagem 01](JGEX.png)](https://maciellima.github.io/JouneyInTheGalaxy/)
-
-**Meu 1 jogo :_Muito legal_
+**DESCRIÇÃO :_Este jogo conta a história de um gnomo chamado ADOLFO, que cuidava de seu planeta tranquilo até certo dia....porque em um dia qualquer, uma nave espacial perde o controlo e cai em cima do relógio central, onde ele é responsável pelo equilíbrio das temperaturas das quatro estações, então ADOLFO tem que ir em busca das peças para concertar o relógio antes que todo o planeta se destrua por completo._
 
 ### Artes
 
