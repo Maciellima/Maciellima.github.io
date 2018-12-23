@@ -26,7 +26,7 @@
 ## Jogos Extras
 ### 01. jogo
 [![imagem 01](JGEX.png)](https://maciellima.github.io/JouneyInTheGalaxy/)
-**DESCRIÇÃO :_Este jogo conta a história de um gnomo chamado ADOLFO, que cuidava de seu planeta tranquilo até certo dia....porque em um dia qualquer, uma nave espacial perde o controlo e cai em cima do relógio central, onde ele é responsável pelo equilíbrio das temperaturas das quatro estações, então ADOLFO tem que ir em busca das peças para concertar o relógio antes que todo o planeta se destrua por completo._
+**DESCRIÇÃO :_Este jogo conta a história de uma spaçonave que entra em uma trajetória errada, e vai parar em uma trajetória onde tem você tem que desviar dos cristais para não explodir no meio do espaço._
 
 ### Artes
 
