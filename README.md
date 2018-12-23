@@ -11,14 +11,35 @@
 - Game designer & Designer
 
 ## Jogos
+### 01. jogo
+[![imagem 01](1JG.png)](https://maciellima.github.io/VouContarAte3/)
+### 02. jogo
+[![imagem 01](2JG.png)](https://mavicampos.github.io/ERS/)
+### 03. jogo
+[![imagem 01](3JG.png)](https://mavicampos.github.io/ERS/)
+### 04. jogo
+
+## Jogos Extras
+### 01. jogo
+[![imagem 01](JGEX.png)](https://maciellima.github.io/JouneyInTheGalaxy/)
 
 **Meu 1 jogo :_Muito legal_
 
 ### Artes
 
 #### Alunos
-01. link que vai para o jogo
-[click aqui](https://maciellima.github.io/VouContarAte3/)
+
+<div class="row">
+  <div class="coluna">
+    <img src="1JG.png" alt="descrição da imagem" style="width:100%">
+  </div>
+  <div class="coluna">
+    <img src="2JG.png" alt="descrição da imagem" style="width:100%">
+  </div>
+  <div class="coluna">
+    <img src="3JG.png" alt="descrição da imagem" style="width:100%">
+  </div></div>
+
  
  02.link que vai para uma imagem
 ![click aqui](https://moderndogmagazine.com/sites/default/files/images/uploads/Pug.jpg)
