@@ -13,6 +13,7 @@
 ## Jogos
 ### 01. jogo
 [![imagem 01](1JG.png)](https://maciellima.github.io/VouContarAte3/)
+**DESCRIÇÃO :_Este jogo conta a história de Guilherme, que desobedeceu a sua mãe e as consequências não foram uma das melhores, então que saber o que aconteceu com ele, vem aqui e dá uma jogadinha para descobrir._
 ### 02. jogo
 [![imagem 01](2JG.png)](https://mavicampos.github.io/ERS/)
 ### 03. jogo
