@@ -29,7 +29,7 @@
 
 #### Alunos
 
-<!DOCTYPE html>
+
 <div class="box">
     <img src="1JG.png"/>
     <span> Titulo da primeira imagem </span>
