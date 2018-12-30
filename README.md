@@ -1,7 +1,7 @@
 ## Meu Portefólio
-
+<center>
 <img src="Perfil.jpg" width="300" height="300"> 
-
+</center>
 - Maciel Araujo de lima
  
 - 22 anos
@@ -59,7 +59,9 @@
 **DESCRIÇÃO :_Concurso oferecido pela "FABER CASTELL", onde deveriamos escultar uma música e criar um desenho, para ser apresentado no video clip da música, de brinde você ganha um estojo com 24 cores, referente a promoção._
 
 # Contatos
+<center>
 <a href="https://www.instagram.com/ciell_lima/?hl=pt-br" target="_blank">
 <img title="INSTAGRAM" alt="NOME" src="Int.png" /></a>
 <a href="https://www.facebook.com/maciel.araujo.3150" target="_blank">
 <img title="FACEBOOK" alt="NOME" src="FB.png" /></a>
+</center>
