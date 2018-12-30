@@ -32,8 +32,14 @@
 **DESCRIÇÃO :_Este jogo conta a história de uma spaçonave que entra em uma trajetória errada, e vai parar em uma trajetória onde tem você tem que desviar dos cristais para não explodir no meio do espaço._
 
 ### Projetos
-<img src="fisica.jpg" width="200" height="200"><img src="livro do musical.jpg" width="200" height="200"><img src="concurso.jpg" width="200" height="200">
-<img src="cenario.jpg" width="200" height="200"><img src="Eu].jpg" width="200" height="200"><img src="Ecoarte.jpg" width="200" height="200"><img src="nuartee.jpg" width="200" height="200">
+<img src="fisica.jpg" width="200" height="200"> **DESCRIÇÃO :_Este foi um projeto na matéria de física, onde ele foi apresentado 2 anos consecutivos na expotec do IFRN CEARÀ-MIRIM, onde explicamos a importância dos lançamentos de foguetes e por fim, fazemos um experimento, onde criamos uma replica de uma foguete em escala reduzida com matérial de baixo custo, junto com os envolvidos do evento e lançamos no campo de esporte da instituição._
+
+<img src="livro do musical.jpg" width="200" height="200">
+<img src="concurso.jpg" width="200" height="200">
+<img src="cenario.jpg" width="200" height="200">
+<img src="Eu].jpg" width="200" height="200">
+<img src="Ecoarte.jpg" width="200" height="200">
+<img src="nuartee.jpg" width="200" height="200">
 
 
 # Contatos
