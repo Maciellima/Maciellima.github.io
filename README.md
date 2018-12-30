@@ -1,7 +1,7 @@
 ## Meu Portefólio
 <center>
 <img src="Perfil.jpg" width="300" height="300"> 
-</center>
+
 - Maciel Araujo de lima
  
 - 22 anos
@@ -9,7 +9,7 @@
 - Estudante do IFRN-Ceará-Mirim
 
 - Game designer & Designer
-
+</center>
 ## Quem sou eu?
 - Olá Amigo(a) Prazer, Meu nome é Maciel Araújo e tenho 22 anos, sou estudante do Curso de Jogos Digitais na cidade de Ceará-Mirim, eu me considero uma pessoa muito criativa, meu sonho é fazer minha faculdade de Designer e abrir meu próprio negócio, me considero um bom Game Designer, adoro criar histórias, me sinto bem a vontade criando meus mundo imaginários e podendo dar vida a eles em formas de desenhos ou criando meus jogos mesmo.
 - Sim já ia me esquecendo, adoro desenhar, um dos meus primeiros robes antes de entrar no curso de jogos era desenhar.então espero que tenha me conhecido um pouco e se divirta com meus trabalhos, tanto quanto eu me divertir criando.
