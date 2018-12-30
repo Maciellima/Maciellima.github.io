@@ -38,16 +38,24 @@
 </center>
 **DESCRIÇÃO :_Este foi um projeto na matéria de física, onde ele foi apresentado 2 anos consecutivos na expotec do IFRN CEARÀ-MIRIM, onde explicamos a importância dos lançamentos de foguetes e por fim, fazemos um experimento, onde criamos uma replica de uma foguete em escala reduzida com matérial de baixo custo, junto com os envolvidos do evento e lançamos no campo de esporte da instituição._
 
+<center>
 <img src="cenario.jpg" width="200" height="200"><img src="livro do musical.jpg" width="200" height="200"><img src="tela.jpg" width="200" height="200">
+ </center>
 **DESCRIÇÃO :_Diretor geral do grupo CENÁRIO de um Musical, Onde toda a turma se reuni-o durante 1 ano, para ao final apresentarmos o nosso grande musical "O REINO DE MERLIM", onde nós se reunimos e criamos durante essa trajetória todo cenário que seria utilizado em cena._
 
+<center>
 <img src="nuartee.jpg" width="200" height="200">
+ </center>
 **DESCRIÇÃO :_Projeto da professora de artes do campus Ceará-mirim, onde busca criar um espaço artítico e cultural para os alunos do campus, e nosso trabalho e cuidar do espaço e auxilar as turmas envolvidas._
 
+<center>
 <img src="Ecoarte.jpg" width="200" height="200">
+ </center>
 **DESCRIÇÃO :_Projeto com parceria do NUARTE, onde ensinamos aos alunos e pessoas externas no campus, como criar um eco-sistema mais sustentável para as futuras gerações._
 
+<center>
 <img src="concurso.jpg" width="200" height="200">
+ </center>
 **DESCRIÇÃO :_Concurso oferecido pela "FABER CASTELL", onde deveriamos escultar uma música e criar um desenho, para ser apresentado no video clip da música, de brinde você ganha um estojo com 24 cores, referente a promoção._
 
 # Contatos
