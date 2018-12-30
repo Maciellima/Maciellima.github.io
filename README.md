@@ -32,7 +32,8 @@
 **DESCRIÇÃO :_Este jogo conta a história de uma spaçonave que entra em uma trajetória errada, e vai parar em uma trajetória onde tem você tem que desviar dos cristais para não explodir no meio do espaço._
 
 ### Projetos
-<img src="fisica.jpg" width="200" height="200"><img src="livro do musical.jpg" width="200" height="200"><img src="concurso.jpg" width="200" height="200"><img src="cenario.jpg" width="200" height="200"><img src="Eu].jpg)" width="200" height="200"><img src="Ecoarte.jpg" width="200" height="200"><img src="nuartee.jpg" width="200" height="200">
+<img src="fisica.jpg" width="200" height="200"><img src="livro do musical.jpg" width="200" height="200"><img src="concurso.jpg" width="200" height="200">
+<img src="cenario.jpg" width="200" height="200"><img src="Eu].jpg" width="200" height="200"><img src="Ecoarte.jpg" width="200" height="200"><img src="nuartee.jpg" width="200" height="200">
 
 
 # Contatos
