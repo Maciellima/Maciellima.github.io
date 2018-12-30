@@ -33,8 +33,7 @@
 
 ### Artes                                                                                   
 # Contatos
-
 <a href="https://www.instagram.com/ciell_lima/?hl=pt-br" target="_blank">
-<img title="INSTAGRAM" alt="NOME" src="Int.png" /></a> align=”middle”>
+<img title="INSTAGRAM" alt="NOME" src="Int.png" /></a>
 <a href="https://www.facebook.com/maciel.araujo.3150" target="_blank">
 <img title="FACEBOOK" alt="NOME" src="FB.png" /></a>
