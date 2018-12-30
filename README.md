@@ -2,13 +2,6 @@
 
 <img src="Perfil.jpg" width="300" height="300"> 
 
-<section>
-  <div class="thumb-container">
-      <!-- Header -->    
-      <img class="img-responsive" src="Perfil.jpg" alt="">
-  </div>
-
-
 - Maciel Araujo de lima
  
 - 22 anos
