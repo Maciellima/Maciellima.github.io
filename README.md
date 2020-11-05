@@ -1,6 +1,6 @@
 ## Meu Portefólio
 <center>
-<img src="perfil.jpg" width="300" height="300"> 
+<img src="perfil.jpeg" width="300" height="300"> 
 </center>
 
 <center>
